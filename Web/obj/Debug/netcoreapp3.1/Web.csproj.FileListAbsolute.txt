@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\C# Class\WebApplication\Web\obj\Debug\netcoreapp3.1\Web.RazorAssemblyInfo.cs
